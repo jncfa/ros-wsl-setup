@@ -28,5 +28,5 @@ This guide will focus on ROS Melodic on Ubuntu Bionic (18.04), however it should
 ## ROS Bugs & Fixes
  - No fixes were needed yet; 
    - Bug found on `rqt`, particularly the `rqt_plot` plugin: in the beginning the program was crashing upon resizing the window, however, after a bit and for no real reason, it just started working fine (problem solved I guess XD);
-   - Small graphic bug on `rqt` plugins: text highlighting was often broke ![rqt bug](rqt_bug.img "text")
+   - Small graphic bug on `rqt` plugins: text highlighting was often broke ![rqt bug](https://raw.githubusercontent.com/jncfa/ros-wsl-setup/master/rqt_bug.png?token=AE4E2QOPTDVQ2ORCB3IXATC7QYVII "text")
   
